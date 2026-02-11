@@ -33,7 +33,7 @@ export function HeroSection() {
         style={{ willChange: "opacity, transform" }}
       >
         <img
-          src="/images/hero-bg.jpg"
+          src="/imagens/hero-bg.jpg"
           alt=""
           className="h-full w-full object-cover object-top"
           loading="eager"
