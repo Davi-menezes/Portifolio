@@ -19,7 +19,7 @@ const otherProjects = [
     href: "https://petworld-nu.vercel.app/",
     name: "PetWorld",
     description: "Loja virtual de produtos e serviços para pets com interface moderna e responsiva.",
-    tags: ["Petshop", "E-commerce", "React"],
+    tags: ["Petshop", "Landing Page", "React"],
     icon: Globe,
   },
 ]
