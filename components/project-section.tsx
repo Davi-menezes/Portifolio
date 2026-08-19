@@ -11,8 +11,8 @@ const otherProjects = [
   {
     href: "https://pentecost-three.vercel.app/",
     name: "Pentecost",
-    description: "Plataforma para gestão de eventos e comunidades religiosas com transmissão ao vivo.",
-    tags: ["Igreja", "React", "Streaming"],
+    description: "App de hábitos para rastrear rotinas e estudos: italiano, budismo, Ruby, marcenaria.",
+    tags: ["Hábitos", "React", "Produtividade"],
     icon: Church,
   },
   {
