@@ -23,10 +23,10 @@ const otherProjects = [
     icon: Scale,
   },
   {
-    href: "https://vanessa-olive.vercel.app/",
-    name: "Vanessa Olive",
-    description: "Portfólio pessoal e blog de desenvolvedora com projetos e artigos técnicos.",
-    tags: ["Portfólio", "React", "Blog"],
+    href: "https://mdmr.vercel.app/",
+    name: "mdmr",
+    description: "Meu Dinheiro Minhas Regras - Plataforma de educação financeira e controle de gastos.",
+    tags: ["Finanças", "React", "Educação"],
     icon: User,
   },
   {
