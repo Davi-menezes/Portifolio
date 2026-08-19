@@ -1,6 +1,34 @@
-import { ExternalLink, Sparkles, PawPrint, Utensils, Globe } from "lucide-react"
+import { ExternalLink, Sparkles, PawPrint, Utensils, Globe, Stethoscope, Church, Scale, User } from "lucide-react"
 
 const otherProjects = [
+  {
+    href: "https://clinicafacil-one.vercel.app/",
+    name: "Clinica Fácil",
+    description: "Sistema de gestão para clínicas com agendamento, prontuários e controle de pacientes.",
+    tags: ["Saúde", "Next.js", "SaaS"],
+    icon: Stethoscope,
+  },
+  {
+    href: "https://pentecost-three.vercel.app/",
+    name: "Pentecost",
+    description: "Plataforma para gestão de eventos e comunidades religiosas com transmissão ao vivo.",
+    tags: ["Igreja", "React", "Streaming"],
+    icon: Church,
+  },
+  {
+    href: "https://jurislinkhub.vercel.app/",
+    name: "Juris Link Hub",
+    description: "Marketplace jurídico conectando advogados e clientes com busca inteligente.",
+    tags: ["Jurídico", "Next.js", "Marketplace"],
+    icon: Scale,
+  },
+  {
+    href: "https://vanessa-olive.vercel.app/",
+    name: "Vanessa Olive",
+    description: "Portfólio pessoal e blog de desenvolvedora com projetos e artigos técnicos.",
+    tags: ["Portfólio", "React", "Blog"],
+    icon: User,
+  },
   {
     href: "https://mundo-pet-love.vercel.app/",
     name: "Mundo Pet Love",
